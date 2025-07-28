@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="k4SJKJfNFEuU5TZl-j6a_A" Reference="sg-p_DOA-0G3p9cZAX4GKg/sfFyo4Tc2kSEEcMznbFctg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" DesignTimeRectangle="735, 931, 66, 50" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aria-role='gridcell' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='top-banner' tabindex='-1' tag='DIV' aria-label='* {0}' /&gt;&lt;webctrl class='dateInnerCell' parentid='top-banner' tag='DIV' /&gt;&quot;, in_Date)]" Guid="91fe30a9-0aca-4f60-88c4-984ad7426a45" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3e7243517f5c907cc49159c955bfca20.png" xmlns="">0ji69gF7kW0Gevgj091fx8A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Aug 26 2025" Name="in_Date" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xmoba28Szk-KFP9Dq-9eDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" DesignTimeRectangle="636, 452, 349, 128" ElementType="Text" FullSelectorArgument="&lt;webctrl idx='2' tag='LABEL' /&gt;" Guid="31565ed2-d11a-40a7-b832-04ab4e00d9dd" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6029001ee0b4bbc563849992308eb0b0.png" xmlns="">0TZLKpsUuhEOEnPaSHurDIA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

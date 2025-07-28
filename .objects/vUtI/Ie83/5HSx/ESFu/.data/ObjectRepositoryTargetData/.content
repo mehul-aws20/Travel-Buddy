@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LAP6sHfodUGV9WpuJx1Xdw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" CVScreenId="fe0201bf-1517-4975-bbf9-8cd09f745d78" CvElementArea="820, 837, 279, 59" CvTextArea="899, 854, 118, 27" CvTextArgument="SEARCH" CvType="Button" DesignTimeRectangle="825, 839, 270, 55" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Search' parentid='top-banner' tag='A' /&gt;" Guid="e6fa828e-6437-40d6-9692-c09ab7765220" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fb9a050d9c38dfed9b3b3626bbcb06a8.png" xmlns="">0PMUtteoxgUujJEZEfKjyfA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
